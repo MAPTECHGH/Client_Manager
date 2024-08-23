@@ -1,1 +1,8 @@
-00ac34e9-58eb-3ff2-9151-27ca030b3644
+{
+    "valid_tokens": [
+        "00ac34e9-58eb-3ff2-9151-27ca030b3644",
+        "3d55b2c0-09ad-4e6a-b07b-80d3e8fba193",
+        "fd8c4c21-1b4a-47b7-a739-3e0fa25411e7",
+        "b18f3e28-0f9d-4f8a-badb-2a7a6c9b65f1"
+    ]
+}
